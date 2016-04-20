@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musiciscriptore00jangoog_0336.png"; bbox 0 0 694 1369; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 90 230 601 319">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 90 230 601 319">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 230 601 255; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 90 231 337 255; x_wconf 77' lang='lat' dir='ltr'><strong>NIKOMAXOT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 361 230 459 254; x_wconf 68' lang='lat' dir='ltr'>FEPA</span> <span class='ocrx_word' id='word_1_3' title='bbox 468 230 601 254; x_wconf 62' lang='lat' dir='ltr'><strong>EHNOT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 156 297 538 319; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 156 298 335 319; x_wconf 80' lang='lat' dir='ltr'>APMONIKON</span> <span class='ocrx_word' id='word_1_5' title='bbox 350 297 538 319; x_wconf 75' lang='lat' dir='ltr'>EPXEIPIAION</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 123 359 565 418">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 123 359 565 418">
+     <span class='ocr_line' id='line_1_3' title="bbox 123 359 565 377; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 123 359 351 377; x_wconf 67' lang='lat' dir='ltr'><strong>THAFOPETQEN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 371 360 404 377; x_wconf 76' lang='grc' dir='ltr'><strong>ΕΞ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 426 359 565 377; x_wconf 74' lang='grc' dir='ltr'>ΤΠΟΓΤΟΤ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 234 400 460 418; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 234 400 296 417; x_wconf 77' lang='grc' dir='ltr'><strong>ΚΑΤΑ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 309 400 339 417; x_wconf 73' lang='grc' dir='ltr'><strong>ΤΟ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 354 400 460 418; x_wconf 68' lang='grc' dir='ltr'>ΠΑΛΑΙΟΝ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
